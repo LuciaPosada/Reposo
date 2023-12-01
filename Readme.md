@@ -4,4 +4,4 @@
 
 ## Diagrama de flujo
 
-[Diagrama de flujo](/Images/flujo.png)
+![Diagrama de flujo](/Images/flujo.jpg)

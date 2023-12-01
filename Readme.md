@@ -1,6 +1,6 @@
 ## Diagrama de calses
 
-[Diagrama de calses](/Images/clases.jpg)
+![Diagrama de calses](/Images/clases.jpg)
 
 ## Diagrama de flujo
 

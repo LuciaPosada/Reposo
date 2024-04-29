@@ -23,7 +23,7 @@ public class Boletin15 {
         SeleccionFutbol e = new Entrenador("1E", 56, "Lucas", "Villar", 24);
         
         System.out.println(e);
-        System.out.println("T_T");
+        System.out.println("T_T"); //
                
     }
     
